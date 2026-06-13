@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="splash.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#004d40"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1.6241359"
+     inkscape:cx="227.19774"
+     inkscape:cy="227.19774"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <rect
+       x="214.40646"
+       y="202.12075"
+       width="110.41837"
+       height="104.66667"
+       id="rect2" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:none;stroke:#ffffff;stroke-width:12.6;stroke-dasharray:none"
+       id="path1"
+       cx="249.46089"
+       cy="207.50595"
+       rx="90.465988"
+       ry="84.123299" />
+    <path
+       d="m 231.19791,222.32942 v 23.37499 h 10.58333 q 5.875,0 9.08333,-3.04167 3.20833,-3.04166 3.20833,-8.66666 0,-5.58333 -3.20833,-8.625 -3.20833,-3.04166 -9.08333,-3.04166 z m -8.41666,-6.91667 h 18.99999 q 10.45833,0 15.79166,4.75 5.375,4.70833 5.375,13.83333 0,9.20833 -5.375,13.91666 -5.33333,4.70833 -15.79166,4.70833 h -10.58333 v 24.99999 h -8.41666 z"
+       id="text2"
+       style="font-size:85.3333px;white-space:pre;fill:#ffffff;stroke:#ffffff;stroke-width:5.7"
+       transform="translate(7.1921768,-39.438776)"
+       aria-label="P" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:5.7;stroke-dasharray:none"
+       id="rect3"
+       width="8.8622446"
+       height="192.04591"
+       x="244.44897"
+       y="297.41498" />
+    <path
+       d="m 83.990857,26.640234 v 23.37499 h 10.58333 q 5.875003,0 9.083333,-3.041665 3.20833,-3.041666 3.20833,-8.666664 0,-5.583331 -3.20833,-8.624996 -3.20833,-3.041665 -9.083333,-3.041665 z M 75.574194,19.72357 h 18.999993 q 10.458333,0 15.791663,4.749998 5.375,4.708331 5.375,13.833327 0,9.20833 -5.375,13.916661 -5.33333,4.708332 -15.791663,4.708332 h -10.58333 v 24.999989 h -8.416663 z m 66.791646,8.291663 -11.41667,30.958321 h 22.87499 z m -4.75,-8.291663 h 9.54166 l 23.70832,62.208307 h -8.74999 l -5.66667,-15.958326 h -28.04165 l -5.66667,15.958326 h -8.87499 z m 71.8333,33.041653 q 2.70833,0.916666 5.25,3.916665 2.58333,2.999999 5.16666,8.249996 l 8.54166,16.999993 h -9.04166 l -7.95833,-15.958326 q -3.08333,-6.249998 -6,-8.291664 -2.875,-2.041665 -7.87499,-2.041665 h -9.16667 v 26.291655 h -8.41666 V 19.72357 h 18.99999 q 10.66667,0 15.91666,4.458331 5.25,4.458332 5.25,13.458328 0,5.874998 -2.75,9.749996 -2.70833,3.874998 -7.91666,5.374998 z M 188.36581,26.640234 v 22.083324 h 10.58333 q 6.08333,0 9.16667,-2.791666 3.12499,-2.833332 3.12499,-8.291663 0,-5.458331 -3.12499,-8.20833 -3.08334,-2.791665 -9.16667,-2.791665 z m 36.04166,-6.916664 h 52.62498 v 7.08333 h -22.08333 v 55.124977 h -8.45833 V 26.8069 h -22.08332 z m 60.74998,0 h 8.41666 v 62.208307 h -8.41666 z m 33.58332,6.916664 v 48.374979 h 10.16666 q 12.875,0 18.83333,-5.83333 5.99999,-5.833331 5.99999,-18.416659 0,-12.499995 -5.99999,-18.291659 -5.95833,-5.833331 -18.83333,-5.833331 z M 310.3241,19.72357 h 17.29166 q 18.08333,0 26.54166,7.541663 8.45833,7.499997 8.45833,23.499991 0,16.083326 -8.5,23.62499 -8.49999,7.541663 -26.49999,7.541663 H 310.3241 Z m 84.99998,8.291663 -11.41667,30.958321 h 22.87499 z m -4.75,-8.291663 h 9.54166 l 23.70832,62.208307 h -8.74999 L 409.4074,65.973551 h -28.04165 l -5.66667,15.958326 h -8.87499 z"
+       id="text3"
+       style="font-size:85.3333px;fill:#ffffff;stroke:#ffffff;stroke-width:5.7"
+       aria-label="PARTIDA" />
+  </g>
+</svg>

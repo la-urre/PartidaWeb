@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#004d40"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1.1484375"
+     inkscape:cx="-24.380952"
+     inkscape:cy="244.68027"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <rect
+       x="214.40646"
+       y="202.12075"
+       width="110.41837"
+       height="104.66667"
+       id="rect2" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:none;stroke:#ffffff;stroke-width:12.6;stroke-dasharray:none"
+       id="path1"
+       cx="256"
+       cy="207.50595"
+       rx="90.465988"
+       ry="84.123299" />
+    <path
+       style="font-size:85.3333px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';white-space:pre;fill:#ffffff;stroke:#ffffff;stroke-width:5.7"
+       d="m 275.93749,197.48886 q 0,5.20834 -2.5,9.29167 -2.45833,4.08333 -7.08333,6.37499 -4.58333,2.29167 -10.62499,2.29167 h -11.70833 v 21.41666 h -7.95833 v -56.20831 h 19.16666 q 9.91666,0 15.29166,4.45833 5.41666,4.41666 5.41666,12.37499 z m -8,0.125 q 0,-10.58332 -13.66666,-10.58332 h -10.24999 v 22.12499 h 10.58333 q 6.20833,0 9.74999,-3.04167 3.58333,-3.04166 3.58333,-8.5 z"
+       id="text2"
+       aria-label="P" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:5.7;stroke-dasharray:none"
+       id="rect3"
+       width="8.8622446"
+       height="192.04591"
+       x="251.56888"
+       y="297.41498" />
+  </g>
+</svg>
